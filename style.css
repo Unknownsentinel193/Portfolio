@@ -140,7 +140,7 @@ section .title::after {
 
 /*  Nav Logo Span Linear-Gradient  */
 .navbar .logo a span {
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #fff, #fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease;
@@ -213,7 +213,7 @@ section .title::after {
 /*  Home  */
 .home {
   display: flex;
-  background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat
+  background: url("https://rb.gy/3sa1p") no-repeat
     center;
   height: 100vh;
   color: #fff;
@@ -250,7 +250,7 @@ section .title::after {
 /* Linear Gradient */
 .home .home-content .text-3 span {
   color: #1e3551;
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #fff, #fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 500;
@@ -311,7 +311,7 @@ section .title::after {
 /* Linear Gradiant */
 .about .about-content .right .text span {
   /* color: #1e3551; */
-  background: linear-gradient(135deg, #48b1bf, #fff, #06beb6);
+  background: linear-gradient(135deg, #fff, #fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
